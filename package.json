@@ -7,7 +7,6 @@
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Miguel Nunez",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
